@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\clases\\clsmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\clases\\clsmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:clases\\clsmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\models\\liblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\models\\liblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:models\\liblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Controllers\\MatriculaController.cs",
               "ToolTip": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Controllers\\MatriculaController.cs",
               "RelativeToolTip": "Controllers\\MatriculaController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T02:56:07.364Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Clases\\ClsMatricula.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAD4v1YAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T02:49:49.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T02:49:49.795Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T01:57:54.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T01:57:54.626Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Models\\LibLogin.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T01:32:32.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T01:32:32.69Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Clases\\ClsLogin.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAUwEAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T01:30:45.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T01:30:45.87Z"
             }
           ]
         }

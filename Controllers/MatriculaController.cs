@@ -10,7 +10,7 @@ using System.Web.Http;
 namespace AppSerWebParcial3.Controllers
 {
     [RoutePrefix("api/Matricula")]
-    //[Authorize]
+    [Authorize]
     public class MatriculaController : ApiController
     {
         [HttpPost]

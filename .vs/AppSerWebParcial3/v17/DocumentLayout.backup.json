@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\clases\\clsmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:clases\\clsmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|c:\\users\\aleja\\source\\repos\\appserwebparcial3\\models\\liblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A2014A-9886-401C-B7E8-7F248C4E2C92}|AppSerWebParcial3.csproj|solutionrelative:models\\liblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatriculaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Controllers\\MatriculaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatriculaController.cs",
+              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Controllers\\MatriculaController.cs",
+              "RelativeToolTip": "Controllers\\MatriculaController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:56:07.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsMatricula.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Clases\\ClsMatricula.cs",
+              "RelativeDocumentMoniker": "Clases\\ClsMatricula.cs",
+              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Clases\\ClsMatricula.cs",
+              "RelativeToolTip": "Clases\\ClsMatricula.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAD4v1YAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:49:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:57:54.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Models\\LibLogin.cs",
+              "RelativeDocumentMoniker": "Models\\LibLogin.cs",
+              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Models\\LibLogin.cs",
+              "RelativeToolTip": "Models\\LibLogin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:32:32.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Clases\\ClsLogin.cs",
+              "RelativeDocumentMoniker": "Clases\\ClsLogin.cs",
+              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\AppSerWebParcial3\\Clases\\ClsLogin.cs",
+              "RelativeToolTip": "Clases\\ClsLogin.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:30:45.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

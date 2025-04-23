@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBExamenModelStoreContainer" CdmEntityContainer="DBExamenEntities">
+    <EntitySetMapping Name="Estudiante">
+      <EntityTypeMapping TypeName="DBExamenModel.Estudiante">
+        <MappingFragment StoreEntitySet="Estudiante">
+          <ScalarProperty Name="idEstudiante" ColumnName="idEstudiante" />
+          <ScalarProperty Name="Documento" ColumnName="Documento" />
+          <ScalarProperty Name="NombreCompleto" ColumnName="NombreCompleto" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Matricula">
+      <EntityTypeMapping TypeName="DBExamenModel.Matricula">
+        <MappingFragment StoreEntitySet="Matricula">
+          <ScalarProperty Name="idMatricula" ColumnName="idMatricula" />
+          <ScalarProperty Name="idEstudiante" ColumnName="idEstudiante" />
+          <ScalarProperty Name="NumeroCreditos" ColumnName="NumeroCreditos" />
+          <ScalarProperty Name="ValorCredito" ColumnName="ValorCredito" />
+          <ScalarProperty Name="TotalMatricula" ColumnName="TotalMatricula" />
+          <ScalarProperty Name="FechaMatricula" ColumnName="FechaMatricula" />
+          <ScalarProperty Name="SemestreMatricula" ColumnName="SemestreMatricula" />
+          <ScalarProperty Name="MateriasMatriculadas" ColumnName="MateriasMatriculadas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
